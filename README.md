@@ -12,4 +12,4 @@ our tech stack
 7. Analytics => metabase
 8. Session replay => 
 9. analytics
-10. 
+10. storage AWS S3
