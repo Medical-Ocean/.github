@@ -12,4 +12,6 @@ our tech stack
 7. Analytics => metabase
 8. Session replay => 
 9. analytics
-10. storage AWS S3
+10. storage Minio => AWS S3
+
+Railways => AWS 
