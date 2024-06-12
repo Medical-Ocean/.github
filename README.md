@@ -13,5 +13,7 @@ our tech stack
 8. Session replay => 
 9. analytics
 10. storage Minio => AWS S3
+11. bowserless chrome for pdf
+12. 
 
 Railways => AWS 
