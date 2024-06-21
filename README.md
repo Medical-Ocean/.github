@@ -17,3 +17,19 @@ our tech stack
 12. 
 
 Railways => AWS 
+
+
+Docker list
+
+1. ICD11 docker
+2. hasura
+3. postgres
+4. zitadel
+5. metabase
+6. Novu
+7. Next.js
+8. n8n
+9. windmill
+10. minio or S3
+11. broswserless or gotenborg
+12. 
