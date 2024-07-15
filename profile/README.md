@@ -22,6 +22,8 @@
 
 Welcome to Medical Ocean, where we're making waves in healthcare technology! 🚀
 
+![Medical Ocean](https://github.com/Medical-Ocean/.github/blob/06d6b04a7e31c63b05252da6191b208b9e1d0473/profile/dashboard.png "Dashboard Page")
+
 ### Our Mission
 
 At Medical Ocean, we're passionate about empowering small and medium-sized medical facilities with cutting-edge, integrated solutions. Our goal is to streamline your operations, enhance patient care, and bring your practice into the digital age - all without the complexity and cost traditionally associated with medical software.
