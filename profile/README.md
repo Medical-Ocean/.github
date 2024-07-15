@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Medical Ocean](profile/auth.png "Auth Page")
+![Medical Ocean](https://github.com/Medical-Ocean/.github/blob/4a2f418e6ea3d155fd42241069f8191598c03336/profile/auth.png "Auth Page")
 
 **Here are some ideas to get you started:**
 
